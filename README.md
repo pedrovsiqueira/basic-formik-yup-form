@@ -1,5 +1,7 @@
 # Basic Form using Formik and Yup
 
+![Formik ](/public/Formik.png)
+
 ## About The Project
 
 I created this simple form to practice Formik using Yup for schema validations.
